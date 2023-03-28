@@ -1,0 +1,78 @@
+
+nav ul{
+  display: flex;
+  list-style-type: none;
+}
+nav li{
+  padding: 15px;
+  font-size: larger;
+  font-weight: 500;
+}
+header h1{
+  font-size: 3em;
+  font-weight: 800;
+
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+  
+}
+
+
+.about-me{
+  display: flex;
+  justify-content: space-around ;
+}
+.bio{
+  display: flex;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  width: 55%;
+  margin: 0 auto;
+  padding-left: 15px;
+  text-align: justify;
+}
+
+#about-me{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.work-container{
+  display: flex;
+  align-items: flex-start;
+  /* flex-wrap: wrap; */
+  padding: 30px;
+}
+
+.work-item{
+display: flex;
+flex-wrap: wrap;
+margin: 5px;
+border: 5
+px;
+}
+
+#work{
+  display: flex;
+  margin-right: 20px;
+}
+.contact-links{
+  display: flex;
+  list-style-type: none;
+}
+.contact-links li{
+  padding: 35px;
+}
+#contact{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
+footer{
+  display: flex;
+  justify-content: flex-end;
+}
