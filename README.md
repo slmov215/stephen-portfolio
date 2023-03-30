@@ -13,3 +13,6 @@ This assignment allowed me to create my first site. The website will be somethin
 [Stephen Mov on GitHub](https://github.com/slmov215/stephen-portfolio)
 ### License
 Refer to the license in the repo.
+
+##### Thanks
+Thanks to [Pexels.com](https://www.pexels.com/photo/white-painted-wall-1939485/) for allowing the use of the background image.
