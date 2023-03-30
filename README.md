@@ -1,15 +1,15 @@
 # stephen-portfolio
 
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+## Description
+
+This assignment allowed me to create my first site. The website will be something I will continue to touch up on and feel comfortable to show to future companies to show case some of the projects I've completed. I haven't done any amazing project yet, so I will just showcase the first week assignment and plans on replacing it in the future. In this site, I wrote a little description about myself, and created different types of links to contact me. Creating this website was a challange and helps me improves and touch up my CSS and HTML knowledges I learned in bootcamp.
+
+### Usage / Screenshot
+![screenshot](./assets/images/screen-shot.html.png)
+
+#### Website link
+[Click here for live site](https://slmov215.github.io/stephen-portfolio/)
+#### Contact
+[Stephen Mov on GitHub](https://github.com/slmov215/stephen-portfolio)
+### License
+Refer to the license in the repo.
