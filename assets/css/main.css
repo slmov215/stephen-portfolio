@@ -40,6 +40,12 @@ header{
   width: auto;
 }
 
+h1:hover::after{
+  content: url(/assets/images/IMG_0137.jpg);
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  display:block;
+}
 
 .about-container{
   display: flex;
