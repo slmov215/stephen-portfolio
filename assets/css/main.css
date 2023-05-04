@@ -98,7 +98,7 @@ flex-wrap: wrap;
   flex-direction: row;
   width: 100%;
   max-height: 70vw;
-  justify-content: center;
+  justify-content: flex-start;
   }
 
 .project-1{
@@ -127,8 +127,8 @@ flex-wrap: wrap;
   width: auto;
   border: 1px double #ede9fe;
   padding: 20px;
-  margin-top: 40%;
-
+  margin-top: 400px;
+  margin-left: 2%;
 }
 
 .sub-type{
@@ -136,7 +136,9 @@ flex-wrap: wrap;
   font-size: 10px;
 }
 
-
+.project-1-img {
+  margin-left: 2%;
+}
 
 .work-item img{
 display: flex;
@@ -153,10 +155,10 @@ padding: 10px;
   background-color: rgba(156, 168, 180, 0.4);
   font-size: xx-small;
   padding: 1em;
-  margin-top: -8%;
-  margin-left: 2%;
+  margin-top: -85px;
+  margin-left: 20px;
   position: absolute;
-  
+  height: 65px;
 }
 
 .contact-links{
@@ -283,7 +285,7 @@ footer{
   text-align: right;
 }
 
-@media screen and (max-width: 960px){
+@media screen and (min-width: 7680px){
   .work-item-container-1{
     flex-wrap: wrap;
   }
