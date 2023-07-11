@@ -101,7 +101,7 @@ flex-wrap: wrap;
   justify-content: flex-start;
   }
 
-.project-1{
+.project-1 {
   display: flex;
   max-height: 70%;
   width: 100%;
@@ -118,6 +118,17 @@ flex-wrap: wrap;
 }
 .mini-2 {
   height: 195px;
+}
+.bottom-left-label-1{
+  position: absolute;
+  background-color: aliceblue;
+  border-style: none;
+  opacity: 0.8;
+  width: auto;
+  border: 1px double #ede9fe;
+  padding: 20px;
+  margin-top: -105px;
+  margin-left: 2%;
 }
 .bottom-left-label{
   position: absolute;
@@ -137,6 +148,7 @@ flex-wrap: wrap;
 }
 
 .project-1-img {
+  height: 500px;
   margin-left: 2%;
 }
 
